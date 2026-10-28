@@ -1,0 +1,6 @@
+name,asset_value,exposure_percent,frequency
+Ransomware,500000,40,0.5
+Phishing,200000,10,2
+Lost laptop,80000,100,0.3
+Insider data leak,300000,25,0.2
+Website downtime,150000,5,1

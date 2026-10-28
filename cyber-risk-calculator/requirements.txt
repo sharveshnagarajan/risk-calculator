@@ -1,0 +1,2 @@
+# This basic version uses only Python's built-in libraries.
+# Nothing extra to install. Python 3.8 or newer is required.
